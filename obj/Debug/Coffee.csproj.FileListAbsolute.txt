@@ -88,3 +88,5 @@ C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.WebPag
 C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.WebPages.Deployment.resources.dll
 C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.WebPages.Razor.resources.dll
 C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\obj\Debug\Coffee.csproj.CopyComplete
+C:\Users\yana_\OneDrive\Рабочий стол\тестирование\testing\obj\Debug\Cinema.dll
+C:\Users\yana_\OneDrive\Рабочий стол\тестирование\testing\obj\Debug\Cinema.pdb
