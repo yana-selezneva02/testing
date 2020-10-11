@@ -1,0 +1,28 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div>
+        <h3>Вход в личный кабинет</h3>
+        <div class="section-title" style="text-align:left;float:left;width:100%;margin-bottom:0">
+            <span>Войдите в личный кабинет</span>
+        </div>
+        <section class="green-section wow fadeInUp" style="padding:40px 0">
+            <section class="container">
+                <form method="post" action="">
+                    <input type="hidden" value="@ViewBag.CoffeeId" name="CoffeeId" />
+                    <table>
+                        <tr>
+                            <td><p>Введите свое имя </p></td>
+                            <td><input type="text" name="Person" /> </td>
+                        </tr>
+                        <tr>
+                            <td><p>Введите пароль </p></td>
+                            <td><input type="text" name="Password" /> </td>
+                        </tr>
+                        <td><p><a href="/Home/Index">Войти</a></p></td>
+                    </table>
+                </form>
+            </section>
+        </section>
+    </div>

@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h3>Форма оформления заказа</h3>
+    <form method="post" action="">
+        <input type="hidden" value="@ViewBag.CoffeeId" name="CoffeeId" />
+    </form>
+</div>
+
+<body>
+    <div class="section-title" style="text-align:left;float:left;width:100%;margin-bottom:0">
+        <span>Войдите в личный кабинет</span>
+    </div>
+    <section class="green-section wow fadeInUp" style="padding:40px 0">
+        <section class="container">
+            <div class="login">
+
+
+                <form method="post">
+                    <p><input type="text" name="login" value="" placeholder="Введите электронную почту"></p>
+                    <p><input type="password" name="password" value="" placeholder="Введите пароль "></p>
+                    <p class="remember_me">
+
+                    </p>
+                    <button type="submit" class="btn white" style="margin-top:50px"><span></span>@Html.ActionLink("Войти", "Create", "Home")</button>
+                </form>
+            </div>
+        </section>
+    </section>
+</body>

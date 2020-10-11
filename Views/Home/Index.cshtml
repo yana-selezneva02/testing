@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="~/Content/css/table.css">
+       
+    </head>
+      <div>
+          <div class="section-title" style="text-align:left;float:left;width:100%;margin-bottom:0">
+              <span>Кофе на ваш вкус</span>
+          </div>
+                <h3>Выберите кофе</h3>
+                
+                    <table>
+                        <thead>
+                            <tr class="header">
+                                <td><p>Объем</p></td>
+                                <td><p>Название кофе</p></td>
+                                <td><p>Цена</p></td>
+                                <td></td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (Cinema.Models.Coffee b in Model)
+
+                            {
+                                <tr>
+                                    <td><p>@b.Volume</p></td>
+                                    <td><p>@b.Name</p></td>
+                                    <td><p>@b.Price</p></td>
+                                    <td><p><a href="/Home/Buy/@b.Id">Купить</a></p></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+               
+           
+    </div>

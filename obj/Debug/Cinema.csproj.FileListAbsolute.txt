@@ -1,0 +1,446 @@
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Cinema.dll.config
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Cinema.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Cinema.pdb
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\csc.exe
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\csc.exe.config
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\csc.rsp
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\csi.exe
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\csi.exe.config
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\csi.rsp
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.AppContext.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Console.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Net.Http.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\vbc.exe
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\vbc.exe.config
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\vbc.rsp
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Antlr3.Runtime.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\EntityFramework.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\EntityFramework.SqlServer.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Newtonsoft.Json.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Helpers.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Mvc.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Optimization.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Razor.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.WebPages.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\WebGrease.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\EntityFramework.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\EntityFramework.SqlServer.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Helpers.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Mvc.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Optimization.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.Razor.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.WebPages.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Newtonsoft.Json.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\ru\System.Web.Razor.resources.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\yana_\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\yana_\source\repos\Cinema\Cinema\obj\Debug\Cinema.dll
+C:\Users\yana_\source\repos\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Софья\source\repos\синема\Cinema\bin\Cinema.dll.config
+C:\Users\Софья\source\repos\синема\Cinema\bin\Cinema.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\Cinema.pdb
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\csc.exe
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\csc.exe.config
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\csc.rsp
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\csi.exe
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\csi.exe.config
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\csi.rsp
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.AppContext.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Console.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Net.Http.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\vbc.exe
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\vbc.exe.config
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\vbc.rsp
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\Софья\source\repos\синема\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Софья\source\repos\синема\Cinema\bin\Antlr3.Runtime.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\EntityFramework.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\EntityFramework.SqlServer.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\Newtonsoft.Json.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Helpers.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Mvc.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Optimization.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Razor.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.WebPages.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\WebGrease.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\EntityFramework.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\EntityFramework.SqlServer.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Helpers.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Mvc.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Optimization.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.Razor.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.WebPages.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\Newtonsoft.Json.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\Antlr3.Runtime.pdb
+C:\Users\Софья\source\repos\синема\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Софья\source\repos\синема\Cinema\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Софья\source\repos\синема\Cinema\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Софья\source\repos\синема\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\Софья\source\repos\синема\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\Софья\source\repos\синема\Cinema\obj\Debug\Cinema.dll
+C:\Users\Софья\source\repos\синема\Cinema\obj\Debug\Cinema.pdb
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Cinema.dll.config
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Cinema.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Cinema.pdb
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Antlr3.Runtime.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\EntityFramework.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\EntityFramework.SqlServer.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Newtonsoft.Json.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Helpers.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Mvc.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Optimization.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Razor.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.WebPages.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\WebGrease.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\EntityFramework.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\EntityFramework.SqlServer.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Helpers.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Mvc.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Optimization.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.Razor.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.WebPages.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Newtonsoft.Json.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Antlr3.Runtime.pdb
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\ru\System.Web.Razor.resources.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\obj\Debug\Cinema.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\obj\Debug\Cinema.pdb
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\csc.exe
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\csc.exe.config
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\csc.rsp
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\csi.exe
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\csi.exe.config
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\csi.rsp
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.AppContext.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Console.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Net.Http.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\vbc.exe
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\vbc.exe.config
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\vbc.rsp
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\yana_\Downloads\blllll-master\blllll-master\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Cinema.dll.config
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Cinema.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Cinema.pdb
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\csc.exe
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\csc.exe.config
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\csc.rsp
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\csi.exe
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\csi.exe.config
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\csi.rsp
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.AppContext.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Console.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Net.Http.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\vbc.exe
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\vbc.exe.config
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\vbc.rsp
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Antlr3.Runtime.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\EntityFramework.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\EntityFramework.SqlServer.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Newtonsoft.Json.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Helpers.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Mvc.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Optimization.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Razor.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.WebPages.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\WebGrease.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\EntityFramework.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\EntityFramework.SqlServer.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Helpers.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Mvc.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Optimization.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.Razor.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.WebPages.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Newtonsoft.Json.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Antlr3.Runtime.pdb
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\obj\Debug\Cinema.dll
+C:\Users\Софья\source\repos\kinoteatr-master\Cinema\obj\Debug\Cinema.pdb
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Cinema.dll.config
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Cinema.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Cinema.pdb
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\csc.exe
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\csc.exe.config
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\csc.rsp
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\csi.exe
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\csi.exe.config
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\csi.rsp
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.AppContext.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Console.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Net.Http.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\vbc.exe
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\vbc.exe.config
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\vbc.rsp
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Antlr3.Runtime.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\EntityFramework.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\EntityFramework.SqlServer.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Newtonsoft.Json.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Helpers.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Mvc.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Optimization.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Razor.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.WebPages.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\WebGrease.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\EntityFramework.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\EntityFramework.SqlServer.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Helpers.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Mvc.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Optimization.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.Razor.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.WebPages.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Newtonsoft.Json.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Antlr3.Runtime.pdb
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.Razor.resources.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\obj\Debug\Cinema.dll
+C:\Users\yana_\Downloads\ss-master (2)\ss-master\Cinema\obj\Debug\Cinema.pdb

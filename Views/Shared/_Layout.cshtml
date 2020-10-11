@@ -1,0 +1,96 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coffee House</title>
+	<!-- META TAGS -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" type="image/x-icon" href="../../Content/img/favicon.ico">
+	<meta name="author" content="Amine Akhouad">
+	<meta name="description" content="Всем приветик">
+
+	<!-- STYLES -->
+	<link href="../../Content/css/bootstrap.min.css" rel="stylesheet">
+	<link href="../../Content/css/ionicons.min.css" rel="stylesheet">
+	<link href="../../Content/css/animsition.min.css" rel="stylesheet">
+	<link href="../../Content/css/animate.css" rel="stylesheet">
+	<link href="../../Content/css/style.css" rel="stylesheet">
+</head>
+<body class="animsition">
+	<!-- HEADER  -->
+	<header class="main-header">
+		<div class="container">
+			<div class="menu">
+				<!-- desktop navbar -->
+				<nav class="desktop-nav">
+					<ul class="first-level">
+						<li>@Html.ActionLink("Отзыв", "Login", "Home")</li>
+						<li>@Html.ActionLink("Личный кабинет", "PersonalAccount", "Home")</li>
+						<li>@Html.ActionLink("Меню", "Index", "Home")</li>
+
+					</ul>
+				</nav>
+				<!-- mobile navbar -->
+				<nav class="mobile-nav"></nav>
+				<div class="menu-icon">
+					<div class="line"></div>
+					<div class="line"></div>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<main>
+		@RenderBody()
+	</main>
+
+	<hr />
+
+	<!-- FOOTER -->
+	<footer class="main-footer wow fadeInUp">
+		<div class="container">
+			<div class="col-md-8 col-sm-12">
+				<div class="row">
+					<nav class="footer-nav">
+						<ul>
+							<li>@Html.ActionLink("На главную", "Create", "Home")</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+
+			<div class="col-md-4 col-sm-12" style="text-align:right">
+				<div class="row">
+					
+					<ul class="social-icons" style="margin-top:30px;float:right">
+
+						<li><a href="https://www.instagram.com/_my_worlds___"><i class="icon ion-social-instagram"></i></a></li>
+						
+						<li><a href="https://www.instagram.com/shilovaa__/"><i class="icon ion-social-instagram"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- SCRIPTS -->
+	<script type="text/javascript" src="../../Content/js/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="../../Content/js/smoothScroll.js"></script>
+	<script type="text/javascript" src="../../Content/js/jquery.flexslider.js"></script>
+	<script type="text/javascript" src="../../Content/js/jquery.animsition.min.js"></script>
+	<script type="text/javascript" src="../../Content/js/wow.min.js"></script>
+	<script type="text/javascript" src="../../Content/js/main.js"></script>
+	<script type="text/javascript">
+		$(window).load(function () {
+			new WOW().init();
+			$(".testimonials").flexslider({
+				directionNav: false,
+				controlNav: false,
+				smoothHeight: true,
+			});
+		});
+	</script>
+</body>
+</html>

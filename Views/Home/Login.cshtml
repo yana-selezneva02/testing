@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <body>
+        <div class="section-title" style="text-align:left;float:left;width:100%;margin-bottom:0">
+            <span>Оставьте свой отзыв</span>
+        </div>
+        <section class="green-section wow fadeInUp" style="padding:40px 0">
+            <section class="container">
+                <div class="login">
+
+
+                    <form method="post">
+                        <p><input type="text" name="Person" value="" placeholder="Введите имя"></p>
+                        <p><input type="text" name="login" value="" placeholder="Введите электронную почту"></p>
+                        <p><input type="password" name="password" value="" placeholder="Введите пароль "></p>
+                        <p><input input type="text" name="Phone" value="" placeholder="Введите номер телефона "></p>
+                        <p><input input type="text" name="Card" value="" placeholder="Введите ваш отзыв"></p>
+                        <p class="remember_me">
+
+                        </p>
+                        <button type="submit" class="btn white" style="margin-top:50px"><span></span>@Html.ActionLink("Отправить", "Create", "Home")</button>
+                        
+                    </form>
+                </div>
+            </section>
+        </section>
+    </body>
